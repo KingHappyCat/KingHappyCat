@@ -13,8 +13,8 @@ I’ve built over 25 public repos, but privately, it’s probably more than 50 a
 
 Fun Facts:  
 
-*I have a cat  
-*I don’t like AI  
-*My favorite games are City Skylines and MineCraft  
-*Hobbies: sailing, playing the violin and piano  
+  *I have a cat  
+  *I don’t like AI  
+  *My favorite games are City Skylines and MineCraft  
+  *Hobbies: sailing, playing the violin and piano  
 
